@@ -1,5 +1,5 @@
 # Coursera Issues
-Feedbacks to Coursera support. The list is [https://github.com/SerVB/coursera-issues/issues](under issues tab) (click!).
+Feedbacks to Coursera support. The list is [under issues tab](https://github.com/SerVB/coursera-issues/issues) (click!).
 
 ## What is this?
 As Coursera doesn't have any issue tracker, I've decided to store the issues I'm reporting somewhere. This is the place I've chosen.
